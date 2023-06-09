@@ -132,5 +132,4 @@ frontend <br>
 
 
 ### 🦶Project Log
-[notion] https://www.notion.so/HACK-4af07ba7630a4a4895472163585a872c <br>
-[figma] https://www.figma.com/file/3akwFQkxKZ6ILTaHy9pS7s/%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84?type=design&node-id=0-1&t=kv1Y3s5JL5XhGUH4-0
+[notion] https://www.notion.so/HACK-4af07ba7630a4a4895472163585a872c
