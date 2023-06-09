@@ -94,7 +94,7 @@ git clone https://github.com/ewha-cse-HACK/server_dev.git
 <br>
 
 ### 🖥️Demo video
-[youtube] 
+[youtube] https://youtu.be/NFmeN01eHdY
 <br>
 <br>
 
