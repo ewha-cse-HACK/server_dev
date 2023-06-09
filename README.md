@@ -119,8 +119,8 @@ frontend <br>
   </thead>
     <tr>
         <td align=center><img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/a65400ba-bb73-4cda-98f8-029c4108ea1f"></td>
-        <td align=center><img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/355e9179-5e01-40b3-8358-5fc490c8b634"></td>
-        <td align=center><img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/b115675b-ea80-4499-b518-5bac76211d64"></td>
+        <td align=center><img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/c25b45bb-a42a-4359-8b00-85fb916745ef"></td>
+        <td align=center><img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/6102194b-87d0-468b-bdcc-0b93a37a35ef"></td>
     </tr>
     <tr>
         <td align=center>Leader<br>back-end<br>AI</td>
