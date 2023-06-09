@@ -14,7 +14,7 @@ frontend <br>
 <table>
   <thead>
     <tr>
-        <th align=center><img </a></td>
+        <th align=center>![민지 미모지](https://github.com/ewha-cse-HACK/server_dev/assets/67634926/a65400ba-bb73-4cda-98f8-029c4108ea1f)</a></td>
         <th align=center>🧚</a></td>
         <th align=center>🦑</a></td>
     </tr>
