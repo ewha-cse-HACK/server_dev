@@ -27,6 +27,41 @@ git clone https://github.com/ewha-cse-HACK/server_dev.git
         <td align=center>POST</td>
         <td align=center>/posts/</td>
     </tr>
+    <tr>
+        <td align=center>글 수정</td>
+        <td align=center>PATCH</td>
+        <td align=center>/posts/{id}</td>
+    </tr>
+    <tr>
+        <td align=center>글 삭제</td>
+        <td align=center>DELETE</td>
+        <td align=center>/posts/{id}</td>
+    </tr>
+    <tr>
+        <td align=center>특정 글 불러오기</td>
+        <td align=center>GET</td>
+        <td align=center>/posts/{id}</td>
+    </tr>
+    <tr>
+        <td align=center>전체 글 불러오기</td>
+        <td align=center>GET</td>
+        <td align=center>/posts/</td>
+    </tr>
+    <tr>
+        <td align=center>좋아요</td>
+        <td align=center>GET</td>
+        <td align=center>/posts/{id}/dolike</td>
+    </tr>
+    <tr>
+        <td align=center>좋아요 취소</td>
+        <td align=center>GET</td>
+        <td align=center>/posts/{id}/undolike</td>
+    </tr>
+    <tr>
+        <td align=center>댓글 작성</td>
+        <td align=center>POST</td>
+        <td align=center>/posts/{id}/comment</td>
+    </tr>
     
 </table>
 <br>
@@ -38,6 +73,7 @@ git clone https://github.com/ewha-cse-HACK/server_dev.git
 
 ### 🖥️Demo video
 [youtube] 
+<br>
 <br>
 
 ### 💪Teck stack
