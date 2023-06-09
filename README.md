@@ -6,6 +6,12 @@
 <br>
 <br>
 
+### How to use
+
+### 🛠️Project Architecture
+<img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/e9c95b0d-8170-428d-90e8-a281188d8c74">
+<img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/ddb06cdf-21e6-430b-ae30-e0b0b8f44260">
+
 ### 🖥️Demo video
 [youtube] 
 
