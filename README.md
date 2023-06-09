@@ -17,27 +17,24 @@ git clone https://github.com/ewha-cse-HACK/server_dev.git
 <table>
   <thead>
     <tr>
-        <th align=center><a href="https://github.com/nheo9143">김민지 @minji1289</a></td>
-        <th align=center><a href="https://github.com/reg0145">최유나 @ehvzmf</a></td>
-        <th align=center><a href="https://github.com/triplecheeseburger">하윤지 @yunji118</a></td>
+        <th align=center>기능</td>
+        <th align=center>Method</td>
+        <th align=center>URL</td>
     </tr>
   </thead>
     <tr>
-        <td align=center><img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/a65400ba-bb73-4cda-98f8-029c4108ea1f"></td>
-        <td align=center><img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/355e9179-5e01-40b3-8358-5fc490c8b634"></td>
-        <td align=center><img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/b115675b-ea80-4499-b518-5bac76211d64"></td>
+        <td align=center>글 작성</td>
+        <td align=center>POST</td>
+        <td align=center>/posts/</td>
     </tr>
-    <tr>
-        <td align=center>leader<br>back-end</td>
-        <td align=center>front-end</td>
-        <td align=center>back-end</td>
-    </tr>
+    
 </table>
 <br>
 
 ### 🛠️Project Architecture
 <img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/e9c95b0d-8170-428d-90e8-a281188d8c74">
 <img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/ddb06cdf-21e6-430b-ae30-e0b0b8f44260">
+<br>
 
 ### 🖥️Demo video
 [youtube] 
@@ -54,7 +51,6 @@ frontend <br>
 
 
 ### 👍Contributor
-
 <table>
   <thead>
     <tr>
