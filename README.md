@@ -6,29 +6,14 @@
 <br>
 <br>
 
-### How to use
+### ☝️How to use
+<h3>Install</h3>
 
-### 🛠️Project Architecture
-<img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/e9c95b0d-8170-428d-90e8-a281188d8c74">
-<img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/ddb06cdf-21e6-430b-ae30-e0b0b8f44260">
+~~~
+git clone https://github.com/ewha-cse-HACK/server_dev.git
+~~~
 
-### 🖥️Demo video
-[youtube] 
-
-<br>
-
-### 💪Teck stack
-backend <br>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=spring_boot&logoColor=white"> <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
-frontend <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white"/></a>
-<br>
-<br>
-
-
-### 👍Contributor
-
+<h3>API</h3>
 <table>
   <thead>
     <tr>
@@ -47,9 +32,48 @@ frontend <br>
         <td align=center>front-end</td>
         <td align=center>back-end</td>
     </tr>
-
 </table>
+<br>
 
+### 🛠️Project Architecture
+<img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/e9c95b0d-8170-428d-90e8-a281188d8c74">
+<img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/ddb06cdf-21e6-430b-ae30-e0b0b8f44260">
+
+### 🖥️Demo video
+[youtube] 
+<br>
+
+### 💪Teck stack
+backend <br>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=spring_boot&logoColor=white"> <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+frontend <br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white"/></a>
+<br>
+<br>
+
+
+### 👍Contributor
+
+<table>
+  <thead>
+    <tr>
+        <th align=center><a href="https://github.com/minji1289">김민지</a></td>
+        <th align=center><a href="https://github.com/ehvzmf">최유나</a></td>
+        <th align=center><a href="https://github.com/yunji118">하윤지</a></td>
+    </tr>
+  </thead>
+    <tr>
+        <td align=center><img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/a65400ba-bb73-4cda-98f8-029c4108ea1f"></td>
+        <td align=center><img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/355e9179-5e01-40b3-8358-5fc490c8b634"></td>
+        <td align=center><img src = "https://github.com/ewha-cse-HACK/server_dev/assets/67634926/b115675b-ea80-4499-b518-5bac76211d64"></td>
+    </tr>
+    <tr>
+        <td align=center>leader<br>back-end</td>
+        <td align=center>front-end</td>
+        <td align=center>back-end</td>
+    </tr>
+</table>
 <br>
 
 
